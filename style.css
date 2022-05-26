@@ -1,0 +1,87 @@
+.navbar-brand{
+    margin-left:1rem;
+}
+.nav-item{
+    margin-left: 3rem;
+}
+
+
+/* home section */
+main{
+    background:url(assets/img/milad-fakurian-UiiHVEyxtyA-unsplash.jpg)no-repeat center center/cover;
+}
+.d-flex{
+    margin: auto;
+}
+.home{
+    margin: 90px 10px;
+    padding: 40px 10px;
+    font-size: 2rem;
+}
+.txt{
+    margin: 0px 20px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#photo{
+    height: 10rem;
+    position: absolute;
+    right:70px;
+     
+}
+@media screen and (max-width:800px){
+    #photo {display: none;}
+}
+
+/* skills section */
+.heading{
+    padding:20px 15px;
+}
+.container{
+    text-align:center;
+}
+.items {
+    padding: 37px 15px;
+    border-radius: 20px;
+    margin: 59px 11px;
+    transition: background-color 2s ease-in-out, color 2.5s ease-in-out;
+    box-shadow: 2px 2px 30px -1px rgb(102 218 212);
+}
+.items:hover{
+    background-color:rgb(225, 51, 51);
+    color:white;
+}
+.sillks-details {
+    padding: 37px 69px;
+}
+
+.skill-header{
+    padding:20px 0px;
+}
+
+
+/* contact me section */
+
+.contact{
+    color:white;
+    text-align:left;
+
+}
+.contact-item {
+    padding: 37px 25px;
+    border-radius: 20px;
+    margin-top: 34px;
+
+}
+
+/* footer section */
+footer {
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+/* utility class */
+img
+{
+    height: 1.8rem;
+}
