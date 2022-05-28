@@ -110,12 +110,12 @@ main{
     padding: 37px 15px;
     border-radius: 20px;
     margin: 59px 11px;
-    transition: background-color 2s ease-in-out, color 2s ease , transform 1s ease-in-out;
-    box-shadow: 2px 2px 40px 1px rgb(102 218 212);
+    transition: background-color 2s ease, color 2s ease , transform 1s ease-in-out;
+    box-shadow: 2px 2px 40px 1px rgb(176, 234, 231);
 }
 .items:hover{
-    background-color:rgb(7, 115, 247);
-    color:white;
+    background-color:rgb(207, 227, 248);
+/*     color:white; */
     transform:scale(1.1)
 }
 .sillks-details {
