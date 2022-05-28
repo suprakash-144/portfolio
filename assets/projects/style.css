@@ -1,0 +1,19 @@
+.navbar-brand{
+    margin-left:1rem;
+}
+.nav-item{
+    margin-left: 3rem;
+}
+.nav-link:hover{
+    color:aqua;
+}
+
+body {
+    background: url(../img/milad-fakurian-UiiHVEyxtyA-unsplash.jpg)no-repeat center center/cover;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    height: 1rem;
+}

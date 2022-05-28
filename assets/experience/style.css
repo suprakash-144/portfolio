@@ -1,0 +1,29 @@
+.navbar-brand{
+    margin-left:1rem;
+}
+.nav-item{
+    margin-left: 3rem;
+}
+.nav-link:hover{
+    color:aqua;
+}
+/* main section */
+
+
+body{
+    background: url(../img/joanna-kosinska-78uNJt1kPw8-unsplash.jpg)no-repeat center center/cover;
+}
+.card{
+    border-radius: 50px;
+    transition: transform 1s ease;
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow:2px 2px 20px 0px rgb(0, 255, 251);
+}
+img{
+    height: 5rem;
+}
+
+/* footer section */
+footer{color:white;}

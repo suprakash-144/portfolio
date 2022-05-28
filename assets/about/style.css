@@ -1,0 +1,83 @@
+.navbar-brand {
+    margin-left: 1rem;
+}
+
+.nav-item {
+    margin-left: 3rem;
+}
+.nav-link:hover{
+    color:aqua;
+}
+
+
+/* About section */
+
+main {
+    background: url(../img/gradienta-xOcfppTFdcU-unsplash.jpg) no-repeat center center/cover;
+}
+
+.para {
+    font-size: 1.2rem;
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.photo>img{
+    height: 23rem;
+    border-radius: 10px;
+}
+
+/* Education section */
+
+
+div>img {
+    height: 6rem;
+
+}
+
+.details {
+    padding: 0rem 4rem;
+
+}
+
+.edu {
+    margin: auto;
+    transition: transform .8s ease-in-out;
+}
+
+.edu:hover {
+    transform: scale(1.2);
+    /* box-shadow: 1px 2px 2px 2px rgb(5, 243, 247); */
+}
+
+
+/* Contact section */
+
+
+.contact {
+    color: white;
+    text-align: left;
+
+}
+
+.contact-item {
+    padding: 37px 25px;
+    border-radius: 20px;
+    margin-top: 34px;
+}
+
+img {
+    height: 1.8rem;
+}
+
+
+
+/* footer section */
+
+
+footer {
+
+    color: white;
+}
